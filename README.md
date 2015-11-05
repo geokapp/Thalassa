@@ -1,15 +1,15 @@
 Thalassa
 =======
 
-Thalassa is a theme collection, currently for the LXQT desktop environmentand.
-The LXQT theme is based on [Numix Frost][1], while the Openbox theme is based
+Thalassa is a theme collection, currently for the LXQt desktop environmentand.
+The LXQt theme is based on [Numix Frost][1], while the Openbox theme is based
 on [Mistral][2]. Thalassa works best with the KDE Breeze QT widget style, but
 you can use your favorite widget style as well.
 
 Installation and Usage
 --------------------------
 
-To install the Thalassa theme on LXQT do the following:
+To install the Thalassa theme on LXQt do the following:
 
 - Copy the lxqt/Thalassa-* folder under /usr/share/lxqt/themes/
 - Copy the openbox/Thalassa-* folder under /usr/share/themes/ or ~/.themes/.

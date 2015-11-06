@@ -16,7 +16,7 @@ LXQtPanel #BackgroundWidget {
 
 QToolTip {
     border: 0px solid #222222;
-    background:#222222;
+    background: #222222;
     color: #DFDFDF;
     padding: 1px;
     margin: 0px;
@@ -415,7 +415,7 @@ border-radius: 3px;
 }
 
 #DesktopSwitch QToolButton:on {
-    border-top: 3px solid #1A80B6;
+    border-top: 3px solid rgba(30, 145, 255, 100%);
 }
     
 #DesktopSwitch QToolButton:hover {
